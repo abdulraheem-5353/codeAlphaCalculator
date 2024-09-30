@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeAlphaCalculator/static/css/main.5460f12b.css",
+    "main.js": "/codeAlphaCalculator/static/js/main.a40039d4.js",
+    "index.html": "/codeAlphaCalculator/index.html",
+    "main.5460f12b.css.map": "/codeAlphaCalculator/static/css/main.5460f12b.css.map",
+    "main.a40039d4.js.map": "/codeAlphaCalculator/static/js/main.a40039d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5460f12b.css",
+    "static/js/main.a40039d4.js"
+  ]
+}
